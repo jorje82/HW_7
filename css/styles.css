@@ -391,7 +391,7 @@ body {
 .mobile-menu-link {
   display: block;
 
-  font-weight: 500;
+  font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
@@ -869,7 +869,7 @@ body {
 }
 
 .modal-check-icon {
- 
+fill: currentColor;
 }
 
 .modal-form-check:checked + .modal-form-check-desc .modal-check-swap {
